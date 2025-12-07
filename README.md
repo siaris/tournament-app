@@ -26,7 +26,7 @@ A modern web application for managing tournaments with support for both eliminat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/siaris/tournament-app
 cd tournament-app
 ```
 
